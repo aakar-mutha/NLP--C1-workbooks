@@ -8,6 +8,14 @@ These are the jupyter notebook assignments for the NLP specilization course 2 Na
 - [Week3](https://github.com/aakar-mutha/NLP--C1-workbooks/blob/master/week%203/C1_W3_Assignment.ipynb)
 - [Week4](https://github.com/aakar-mutha/NLP--C1-workbooks/blob/master/week%204/C1_W4_Assignment.ipynb)
 
+## Libraries used
+- pandas
+- nltk
+- numpy
+- regex
+- collections
+- math
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
